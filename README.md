@@ -48,35 +48,28 @@ Currently working with HiPerGator HPC for large-scale data analysis.
 
 ### Featured Projects
 
-<div align="center">
-
-[![BAHC](https://github-readme-stats.vercel.app/api/pin/?username=ebweberUF&repo=BAHC&theme=github_dark&hide_border=true)](https://github.com/ebweberUF/BAHC)
-[![PRICE-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ebweberUF&repo=PRICE-Dashboard&theme=github_dark&hide_border=true)](https://github.com/ebweberUF/PRICE-Dashboard)
-
-[![MAPP-HRV](https://github-readme-stats.vercel.app/api/pin/?username=ebweberUF&repo=MAPP-HRV&theme=github_dark&hide_border=true)](https://github.com/ebweberUF/MAPP-HRV)
-[![ULLTRA-Study](https://github-readme-stats.vercel.app/api/pin/?username=ebweberUF&repo=ULLTRA-Study&theme=github_dark&hide_border=true)](https://github.com/ebweberUF/ULLTRA-Study)
-
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**BAHC**](https://github.com/ebweberUF/BAHC) | Brain Aging in Healthy Controls - MRI data pipeline for ML training | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Singularity](https://img.shields.io/badge/-Singularity-1E90FF?style=flat-square) |
+| [**PRICE-Dashboard**](https://github.com/ebweberUF/PRICE-Dashboard) | Interactive data visualization dashboard | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [**MAPP-HRV**](https://github.com/ebweberUF/MAPP-HRV) | Heart rate variability analysis for MAPP study | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**ULLTRA-Study**](https://github.com/ebweberUF/ULLTRA-Study) | Research data management system | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
-### GitHub Activity
+### GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ebweberUF&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+<a href="https://github.com/ebweberUF">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebweberUF&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebweberUF&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ebweberUF&theme=github-dark-blue&hide_border=true)
+<a href="https://github.com/ebweberUF">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ebweberUF&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
-
----
-
-### Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ebweberUF&theme=github-compact&hide_border=true&area=true)
 
 ---
 
